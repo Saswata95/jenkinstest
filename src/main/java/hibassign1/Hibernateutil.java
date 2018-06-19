@@ -3,7 +3,7 @@ package hibassign1;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class Hibernateutil {
+public class Hibernateutil1 {
 	private static final SessionFactory sessionFactory = buildSessionFactory();
 
 	private static SessionFactory buildSessionFactory() {
